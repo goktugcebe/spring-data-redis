@@ -1,4 +1,5 @@
 <h1>Spring Data Redis</h1>
+Welcome to the Java Spring Redis Project, a powerful web application built with Java, Spring, and Redis. This project showcases the integration of Java Spring with Redis, an open-source in-memory data store, to enhance application performance using caching mechanisms.
 <h3>Technologies Used:</h3>
 
 <b>Java:</b> The project is developed using the Java programming language, known for its versatility and robustness.<br>
